@@ -1,7 +1,7 @@
 # 
  
 
-># Quiz-Seriados
+># Quiz-Series
 
 + A simple quiz made with javascript, focusing on solidifying JS concepts. 
  
