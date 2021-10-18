@@ -3,7 +3,7 @@
 
 ># Quiz-Seriados
 
-+ A simple quiz made with javascript.
++ A simple quiz made with javascript, focusing on solidifying JS concepts. 
  
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 >## Website 💻
-+ [Quiz - Seriados](https://todolist-vjs.netlify.app/)
++ [Quiz - Series](https://todolist-vjs.netlify.app/)
 
 <br>
 
