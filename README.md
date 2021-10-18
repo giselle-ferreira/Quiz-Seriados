@@ -23,7 +23,7 @@
 
 >## Layout 🎥
 
-<img src="https://github.com/giselle-ferreira/SagaFlix-NetflixClone/blob/main/assets/video/sagaflix-netflixclone.gif" />
+<img src="https://github.com/giselle-ferreira/Quiz-Seriados/blob/main/assets/Quiz-Seriados.gif" />
 
 >
 
