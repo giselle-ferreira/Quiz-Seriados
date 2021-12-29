@@ -11,6 +11,7 @@
 + HTML
 + CSS
 + Javascript
++ Bootstrap (addition)
 
 <br>
 
