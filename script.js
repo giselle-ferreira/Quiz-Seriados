@@ -36,5 +36,13 @@ function final() {
   if (document.getElementById('correct8').checked) {
     score++
   }
-  alert('VOCÊ ACERTOU ' + score + '/8')
+
+  // Condition for the final message on the modal
+  if (score >= 5) {
+    var result = `Parabéns! Você acertou ${score} de um total de 8 perguntas!`
+    document.getElementById('myModal').innerHTML = result
+  } else {
+    var result = `Você assiste poucas séries, não? Você acertou apenas ${score} de um total de 8 perguntas!`
+    document.getElementById('myModal').innerHTML = result
+  }
 }
