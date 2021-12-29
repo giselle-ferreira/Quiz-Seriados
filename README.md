@@ -17,7 +17,7 @@
 <br>
 
 >## Website 💻
-+ [Quiz - Series](https://todolist-vjs.netlify.app/)
++ [Quiz - Series](https://quiz-series.netlify.app/)
 
 <br>
 
